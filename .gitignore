@@ -1,0 +1,13 @@
+.bpm
+*.bpkg
+Gemfile.lock
+spade-boot.js
+docs/jsdoc
+docs/output
+lib/*/tests/all.js
+lib/*/tests/qunit*
+test_*.html
+tmp
+dist
+.DS_Store
+assets

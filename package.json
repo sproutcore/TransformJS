@@ -1,0 +1,25 @@
+{
+  "name": "accelerated-effects",
+  "bpm": "1.0.0",
+  "dependencies": {
+    "jquery": "~> 1.6",
+    "spade": "~> 1.0"
+  },
+  "dependencies:development": {
+    "spade-qunit": "~> 1.0.0"
+  },  
+  "bpm:build": {
+    "bpm_libs.js": {
+      "directories": [
+        "lib"
+      ],
+      "minifier": "uglify-js"
+    },
+    "sproutcore-touch.js": {
+      "minifier": "uglify-js",
+      "include": [
+        "spade"
+      ]
+    }
+  }
+}
