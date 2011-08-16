@@ -1,6 +1,12 @@
 {
   "name": "accelerated-effects",
   "bpm": "1.0.0",
+  "summary": "AcceleratedEffects",
+  "description": "Exposes accelerated effects to .css() and .animate() to apply hardware-accelerated transforms when available.",
+  "homepage": "http://github.com/jtaby/AcceleratedEffects",
+  "author": "Majd Taby",
+  "version": "1.0.beta",
+  
   "dependencies": {
     "jquery": "~> 1.6",
     "spade": "~> 1.0"
