@@ -5,7 +5,7 @@
   "description": "A jQuery plugin that provides an abstraction over 2d and 3d transforms.",
   "homepage": "http://github.com/sproutcore/TransformJS",
   "author": "Majd Taby",
-  "version": "1.0.beta",
+  "version": "1.0.beta.2",
   
   "dependencies": {
     "jquery": "~> 1.6",
