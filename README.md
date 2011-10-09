@@ -5,7 +5,7 @@
 ## Overview
 
   CSS Transforms  were first introduced in WebKit in 2007, and have now 
-reached mass-adoption by all the major browswer vendors. This is great news 
+reached mass-adoption by all the major browser vendors. This is great news 
 for web developers, especially in the case of 3D transforms which are
 hardware-accelerated, resulting in extremely smooth animations and
 responsive applications. 
