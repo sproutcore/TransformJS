@@ -1,5 +1,4 @@
 require "bundler/setup"
-require "sproutcore"
 require "erb"
 require "uglifier"
 
